@@ -567,6 +567,12 @@ section {
     background: #000000;
 }
 
+.link-github {
+    text-decoration: none;
+    color: #ffffff; /* Exemplo de cor verde, ou use 'black', 'white', etc. */
+}
+
+
 @media (max-width: 850px) {
 
     #cabecalho-projeto {
